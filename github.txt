@@ -1,0 +1,37 @@
+GITHUB
+1. Introduction to GitHub:
+GitHub is a code hosting platform for version control and collaboration.
+It enables collaborative work on projects from anywhere.
+2. Getting Started:
+Download Git based on your operating system.
+Open Terminal for Mac/Linux or use a terminal emulator for Windows.
+3. Configure Git:
+Set up name and email using git config commands.
+Optional: Configure colors for terminal output.
+4. Create a New Directory and Initialize Git:
+Create an empty directory for the project.
+Use git init to initialize a Git repository in the directory.
+5. Create a Hello World Repository on GitHub:
+Create a new repository on GitHub.
+Name it "hello-world" and add a README file.
+Initialize the repository.
+6. Branching:
+Create a new branch, e.g., readme-edits, from the main branch.
+Branching allows for different versions of the repository.
+7. Making and Committing Changes:
+Edit files, e.g., README.md, in the new branch.
+Save changes as commits with commit messages.
+8. Opening a Pull Request:
+Propose changes by opening a pull request.
+Pull requests facilitate collaboration and show differences between branches.
+Add a title, description, and create the pull request.
+9. Merging a Pull Request:
+Merge changes from the readme-edits branch into the main branch.
+Resolve conflicts if any (not applicable in this example).
+Confirm and complete the merge.
+Delete the branch after merging.
+Conclusion:
+GitHub's pull request workflow is a popular way to propose, review, and merge code changes.
+Provides a systematic approach to collaborative coding.
+Knowledge of Git commands, branching, and pull requests is essential for effective collaboration on GitHub.
+

@@ -1,0 +1,25 @@
+FUNDAMENT KNOWLEDGE ON INTERNET AND BROWSER
+The topic provides an overview of how the Internet works, aiming to help developers understand its fundamental concepts. It covers the following key aspects:
+What is the Internet?
+It is defined as a global network of interconnected computers communicating through standardized protocols.
+Vint Cerf is a pioneer in Internet development, it explains its history and decentralized nature.
+Wires, Cables, and Wi-Fi:
+Information travels as bits over various mediums such as Ethernet cables, fiber optic cables, and wireless signals.
+The topic discusses different mediums for data transfer on the Internet.
+IP Addresses and DNS:
+The topic explores protocols involved in information transfer, focusing on how data traverses between computers.
+It introduces the concepts of IP addresses and Domain Name System (DNS).
+Packets, Routing, and Reliability:
+The topic describes how information is transferred as packets, and these packets may take various routes during the transfer.
+It emphasizes that the path of information transfer is not fixed and may change dynamically.
+HTTP and HTML:
+It explains HTTP as the standard protocol for transferring webpages over the Internet.
+It offers a brief introduction to how web browsers load websites using HTML.
+Encryption and Public Keys:
+It highlights the role of cryptography in ensuring secure communication on the Internet.
+It introduces SSL/TLS and their contributions to Internet security.
+Cybersecurity and Crime:
+Cybersecurity is defined as protective measures against criminal activities involving networks, devices, and the internet.
+It provides insights into common cybercrimes.
+
+

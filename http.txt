@@ -1,0 +1,28 @@
+HTTP (Hypertext Transfer Protocol)
+HTTP is the fundamental protocol of the World Wide Web, facilitating the loading of web pages through hypertext links. It operates at the application layer, facilitating information transfer between networked devices, and runs on top of other layers in the network protocol stack. A standard HTTP flow involves a client making a request to a server, which responds with a message.
+Components of an HTTP Request
+HTTP Version Type: Specifies the version of HTTP being used.
+URL (Uniform Resource Locator): Identifies the resource the client is requesting.
+HTTP Method: Represents the action the client expects from the server (e.g., 'GET' for retrieving information, 'POST' for submitting information).
+HTTP Request Headers: Text information stored in key-value pairs, communicating details such as the client's browser and requested data.
+Optional HTTP Body: Contains information being submitted to the web server (e.g., form data like username and password).
+HTTP Methods:
+HTTP methods, also known as HTTP verbs, indicate the expected action from the queried server. Common methods include 'GET' (requesting information) and 'POST' (submitting information).
+HTTP Request Headers:
+Headers consist of text information in key-value pairs, included in every HTTP request. They communicate core details, such as the client's browser and the requested data.
+HTTP Request Body:
+The body contains the information the request is transferring, such as usernames, passwords, or form data.
+HTTP Response:
+An HTTP response is what clients receive from a server in answer to a request. It includes:
+HTTP Status Code: A 3-digit code indicating the success or failure of the request (e.g., '200 OK' for success, '404 NOT FOUND' for client-side error).
+HTTP Response Headers: Similar to request headers, they convey important information about the response body.
+Optional HTTP Body: Contains the requested information (commonly HTML data for webpages).
+HTTP Status Codes:
+Status codes are 3-digit codes indicating the outcome of an HTTP request, categorized into:
+1xx Informational
+2xx Success
+3xx Redirection
+4xx Client Error
+5xx Server Error They help diagnose whether the request was successful ('2xx'), encountered a client-side error ('4xx'), or faced a server-side issue ('5xx').
+Understanding these components is crucial for developers working with web applications and APIs, ensuring effective communication between clients and servers.
+
